@@ -33,7 +33,6 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-TelasApp">Telas das Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -91,22 +90,6 @@ Caso tenha surgido algum erro e nao estaja conseguindo realizar esta tarefa, voc
 
 ### obs:
 Lembre-se: **Fique atento ao seu ip, sempre que executar a aplicação mobile, verifique se o ip `src/services/api.js` está correto, de acordo com o seu**.
-
-##  TelasApp
-Resultado da aplicação em execução:
-
-### Mobile
-App Mobile (React Native) -> resultado da execução:
-<table>
-  <tr>
-    <td>
-      <img src="./tmp/img/mobile-page1.jpeg" align="center"></img>
-    </td>
-    <td>
-      <img src="./tmp/img/mobile-page2.jpeg" align="center"></img>
-    </td>
-  </tr>
-</table>
 
 ## :memo: Licença
 
