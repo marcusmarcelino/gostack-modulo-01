@@ -9,7 +9,7 @@
 <p align="center">Projeto Inicial <strong>Gerenciamento de Repositórios</strong> - Rocketseat</p>
 
 <div align="center">
-  <img height="250" width="250" src="./tmp/img/gestRepo.svg" align="center"></img>
+  <img height="250" width="250" src="./tmp/img/gestRepo.png" align="center"></img>
 </div>
 
 <p align="center">
